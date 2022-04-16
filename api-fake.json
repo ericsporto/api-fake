@@ -1,137 +1,142 @@
-[
   {
-    "id": 1,
-    "meta_mensal": 64,
-    "meta": 160,
-    "aderencia": 59,
-    "media_diaria": {
-      "h": 7,
-      "m": 48
-    },
-    "media_semanal": {
-      "h": 36,
-      "m": 12
-    },
-    "apontamentos": {
-      "h": 143,
-      "min": 32
-    },
-    "picture": "https://picsum.photos/seed/50/60/60",
-    "projetos": {
-      "name": "The Game",
-      "cliente": "Octopus",
-      "colaboradores": 23,
-      "pacote": 1500,
-      "consolidado": 765,
-      "situacao": "Ativo"
-    }
-  },
-  {
-    "id": 2,
-    "meta_mensal": 54,
-    "meta": 170,
-    "aderencia": 39,
-    "media_diaria": {
-      "h": 4,
-      "m": 34
-    },
-    "media_semanal": {
-      "h": 28,
-      "m": 15
-    },
-    "apontamentos": {
-      "h": 67,
-      "min": 50
-    },
-    "picture": "https://picsum.photos/seed/50/60/60",
-    "projetos": {
-      "name": "Canadá Project",
-      "cliente": "Life",
-      "colaboradores": 5,
-      "pacote": 1300,
-      "consolidado": 325,
-      "situacao": "Suspenso"
-    }
-  },
-  {
-    "id": 3,
-    "meta_mensal": 84,
-    "meta": 180,
-    "aderencia": 80,
-    "media_diaria": {
-      "h": 8,
-      "m": 0
-    },
-    "media_semanal": {
-      "h": 40,
-      "m": 0
-    },
-    "apontamentos": {
-      "h": 323,
-      "min": 56
-    },
-    "picture": "https://picsum.photos/seed/50/60/60",
-    "projetos": {
-      "name": "Disney",
-      "cliente": "JBJ",
-      "colaboradores": 65,
-      "pacote": 1800,
-      "consolidado": 1265,
-      "situacao": "Ativo"
-    }
-  },
-  {
-    "id": 4,
-    "meta_mensal": 8,
-    "meta": 100,
-    "aderencia": 9,
-    "media_diaria": {
-      "h": 1,
-      "m": 28
-    },
-    "media_semanal": {
-      "h": 8,
-      "m": 18
-    },
-    "apontamentos": {
-      "h": 80,
-      "min": 12
-    },
-    "picture": "https://picsum.photos/seed/50/60/60",
-    "projetos": {
-      "name": "Foccus",
-      "cliente": "Cpm22",
-      "colaboradores": 3,
-      "pacote": 800,
-      "consolidado": 5,
-      "situacao": "Desativado"
-    }
-  },
-  {
-    "id": 5,
-    "meta_mensal": 90,
-    "meta": 200,
-    "aderencia": 109,
-    "media_diaria": {
-      "h": 10,
-      "m": 34
-    },
-    "media_semanal": {
-      "h": 155,
-      "m": 18
-    },
-    "apontamentos": {
-      "h": 476,
-      "min": 45
-    },
-    "picture": "https://picsum.photos/seed/50/60/60",
-    "projetos": {
-      "name": "The Best",
-      "cliente": "Nkey",
-      "colaboradores": 108,
-      "pacote": 2500,
-      "consolidado": 1875,
-      "situacao": "Ativo"
-    }
-  }
-]
+    "colaborador": [
+        {
+            "id": 1,
+            "meta_mensal": 64,
+            "meta": 160,
+            "aderencia": 59,
+            "media_diaria": {
+              "h": 7,
+              "m": 48
+            },
+            "media_semanal": {
+              "h": 36,
+              "m": 12
+            },
+            "apontamentos": {
+              "h": 143,
+              "min": 32
+            },
+            "picture": "https://picsum.photos/seed/50/60/60",
+            "projetos": {
+              "name": "The Game",
+              "cliente": "Octopus",
+              "colaboradores": 23,
+              "pacote": 1500,
+              "consolidado": 765,
+              "situacao": "Ativo"
+            }
+          },
+          {
+            "id": 2,
+            "meta_mensal": 54,
+            "meta": 170,
+            "aderencia": 39,
+            "media_diaria": {
+              "h": 4,
+              "m": 34
+            },
+            "media_semanal": {
+              "h": 28,
+              "m": 15
+            },
+            "apontamentos": {
+              "h": 67,
+              "min": 50
+            },
+            "picture": "https://picsum.photos/seed/50/60/60",
+            "projetos": {
+              "name": "Canadá Project",
+              "cliente": "Life",
+              "colaboradores": 5,
+              "pacote": 1300,
+              "consolidado": 325,
+              "situacao": "Suspenso"
+            }
+          },
+          {
+            "id": 3,
+            "meta_mensal": 84,
+            "meta": 180,
+            "aderencia": 80,
+            "media_diaria": {
+              "h": 8,
+              "m": 0
+            },
+            "media_semanal": {
+              "h": 40,
+              "m": 0
+            },
+            "apontamentos": {
+              "h": 323,
+              "min": 56
+            },
+            "picture": "https://picsum.photos/seed/50/60/60",
+            "projetos": {
+              "name": "Disney",
+              "cliente": "JBJ",
+              "colaboradores": 65,
+              "pacote": 1800,
+              "consolidado": 1265,
+              "situacao": "Ativo"
+            }
+          },
+          {
+            "id": 4,
+            "meta_mensal": 8,
+            "meta": 100,
+            "aderencia": 9,
+            "media_diaria": {
+              "h": 1,
+              "m": 28
+            },
+            "media_semanal": {
+              "h": 8,
+              "m": 18
+            },
+            "apontamentos": {
+              "h": 80,
+              "min": 12
+            },
+            "picture": "https://picsum.photos/seed/50/60/60",
+            "projetos": {
+              "name": "Foccus",
+              "cliente": "Cpm22",
+              "colaboradores": 3,
+              "pacote": 800,
+              "consolidado": 5,
+              "situacao": "Desativado"
+            }
+          },
+          {
+            "id": 5,
+            "meta_mensal": 90,
+            "meta": 200,
+            "aderencia": 109,
+            "media_diaria": {
+              "h": 10,
+              "m": 34
+            },
+            "media_semanal": {
+              "h": 155,
+              "m": 18
+            },
+            "apontamentos": {
+              "h": 476,
+              "min": 45
+            },
+            "picture": "https://picsum.photos/seed/50/60/60",
+            "projetos": {
+              "name": "The Best",
+              "cliente": "Nkey",
+              "colaboradores": 108,
+              "pacote": 2500,
+              "consolidado": 1875,
+              "situacao": "Ativo"
+            }
+          }
+        ]
+}
+        
+  
+
